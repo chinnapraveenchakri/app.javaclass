@@ -1,0 +1,6 @@
+[user]
+	name = chakri@hotmail.com
+[core]
+	editor = /usr/bin/vim
+[colour]
+	ui = true
